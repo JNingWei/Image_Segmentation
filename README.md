@@ -1,9 +1,10 @@
-### ImageSegmentationBox
+### Image Segmentation
 
 Completed with Caffe and Tensorflow, in Python2.7.
 
 Including: FCN(8/16/32), SegNet.
 
+### Demo 
 
 Original Image:
 
