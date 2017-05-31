@@ -1,10 +1,27 @@
-### Image Segmentation
+
+# Image Segmentation
+ 
+__Update 31-05-2017__:   __There're some programs of image segmentation written by myself, and still in edition.__
+
+## Introduction
+
 
 Completed with Caffe and Tensorflow, in Python2.7.
 
 Including: FCN(8/16/32), SegNet.
 
-### Demo 
+## Usage 
+
+* run "cd FCN/" to find code files 
+* run "run.sh" to generated the image you need
+
+## Requirements
+
+   * Python2.7
+
+   * Tensorflow-gpu
+
+## Demo 
 
 Original Image:
 
