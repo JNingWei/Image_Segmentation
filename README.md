@@ -29,3 +29,4 @@ FCN8_upsampled_Image:
 SegNeted_Image:
 
 ![SegNeted_Image]()
+
