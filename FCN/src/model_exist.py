@@ -16,6 +16,12 @@ if not os.path.isfile(model_path):
     logging.info("Model file doesn't exist.")
     url = 'ftp://mi.eng.cam.ac.uk/pub/mttt2/models/vgg16.npy'
 
+    # if dir 'model/' doesn't exist
+    model_dir = model_path[:-9]
+    if not os.path.exists(model_dir):
+        logging.info("Mkdir 'model/'.")
+        os.mkdir(model_dir)
+
     def down(_save_path, _url):
         try:
             urllib.urlretrieve(_url, _save_path)
