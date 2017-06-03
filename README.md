@@ -1,7 +1,7 @@
 
 # Image Segmentation
  
-__Update 31-05-2017__:   __There're some programs of image segmentation written by myself, and still in a modified state.__
+__Update 03-06-2017__:   __There're some programs of image segmentation written by myself, and still in a modified state.__
 
 ## Introduction
 
