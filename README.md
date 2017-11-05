@@ -1,5 +1,5 @@
 
-# Image Segmentation
+# Image Segmentation　![Travis](https://img.shields.io/travis/rust-lang/rust.svg) ![Language](https://img.shields.io/badge/language-Python-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) [![SayThanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kamyu104)
  
 __Update 03-06-2017__:   __There're some programs of image segmentation written by myself, and still in a modified state.__
 
