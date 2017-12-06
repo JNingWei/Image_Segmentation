@@ -45,5 +45,8 @@ FCN8_upsampled_Image:
 
 ![FCN8_upsampled_Image](https://github.com/JNingWei/Image-Segmentation/blob/master/FCN/generated_image/fcn8_upsampled.jpg)
 
+## License
+
+[MIT](https://github.com/JNingWei/Image-Segmentation/blob/master/LICENSE.md)
 
 
