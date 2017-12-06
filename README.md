@@ -45,9 +45,5 @@ FCN8_upsampled_Image:
 
 ![FCN8_upsampled_Image](https://github.com/JNingWei/Image-Segmentation/blob/master/FCN/generated_image/fcn8_upsampled.jpg)
 
-<br>
 
-SegNeted_Image:
-
-![SegNeted_Image]()
 
