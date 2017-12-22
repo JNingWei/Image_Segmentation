@@ -1,3 +1,11 @@
+# coding=utf-8
+
+"""
+Image-Segmentation
+Network of fcn8_vgg.
+__author__ = 'JNingWei'
+"""
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
