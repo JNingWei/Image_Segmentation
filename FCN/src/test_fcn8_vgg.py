@@ -1,4 +1,10 @@
-#!/usr/bin/env python
+# coding=utf-8
+
+"""
+Image-Segmentation
+Test fcn8_vgg.
+__author__ = 'JNingWei'
+"""
 
 import os
 import scipy as scp
