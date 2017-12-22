@@ -2,7 +2,7 @@
 
 """
 Image-Segmentation
-Run fcn16_vgg.
+Test fcn16_vgg.
 __author__ = 'JNingWei'
 """
 
