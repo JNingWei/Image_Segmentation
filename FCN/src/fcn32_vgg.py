@@ -6,7 +6,6 @@ Network of fcn32_vgg.
 __author__ = 'JNingWei'
 """
 
-
 import os
 import logging
 from math import ceil
