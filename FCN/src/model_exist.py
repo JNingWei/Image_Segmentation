@@ -1,4 +1,10 @@
-# -*- coding: utf-8 -*-
+# coding=utf-8
+
+"""
+Image-Segmentation
+Query whether the model exists.
+__author__ = 'JNingWei'
+"""
 
 import os
 import urllib
