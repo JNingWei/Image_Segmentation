@@ -1,16 +1,12 @@
-"""This module provides the a softmax cross entropy loss for training FCN.
+# coding=utf-8
 
-In order to train VGG first build the model and then feed apply vgg_fcn.up
-to the loss. The loss function can be used in combination with any optimizer
-(e.g. Adam) to finetune the whole model.
+"""
+Image-Filter
+Convolution module.
+__author__ = 'JNingWei'
 """
 
-# from __future__ import absolute_import
-# from __future__ import division
-# from __future__ import print_function
-
 import tensorflow as tf
-
 
 def loss(logits, labels, num_classes, head=None):
     """Calculate the loss from the logits and the labels.
