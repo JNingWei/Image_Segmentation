@@ -1,8 +1,8 @@
 # coding=utf-8
 
 """
-Image-Filter
-Convolution module.
+Image-Segmentation
+Loss computation module.
 __author__ = 'JNingWei'
 """
 
