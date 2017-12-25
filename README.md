@@ -37,6 +37,6 @@ FCN8_upsampled_Image:<br>
 
 ## License
 
-[MIT](https://github.com/JNingWei/Image-Segmentation/blob/master/LICENSE.md)
+[MIT](https://github.com/JNingWei/Image_Segmentation/blob/master/LICENSE.md)
 
 
