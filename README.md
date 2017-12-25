@@ -6,7 +6,7 @@ __Update 03-06-2017__:   __There're some programs of image segmentation written 
 ## Overview
 
 
-Completed with Caffe and Tensorflow, in Python2.7.
+Completed with Tensorflow, in Python2.7.
 
 Including: FCN(8/16/32), SegNet.
 
@@ -23,26 +23,16 @@ Including: FCN(8/16/32), SegNet.
 
 ## Demo 
 
-Original Image:
-
+Original Image:<br>
 ![Original Image](https://github.com/JNingWei/Image-Segmentation/blob/master/FCN/test_data/Elegent_Girl.jpg)
 
-<br>
-
-FCN32_upsampled_Image:
-
+FCN32_upsampled_Image:<br>
 ![FCN32_upsampled_Image](https://github.com/JNingWei/Image-Segmentation/blob/master/FCN/generated_image/fcn32_upsampled.jpg)
 
-<br>
-
-FCN16_upsampled_Image:
-
+FCN16_upsampled_Image:<br>
 ![FCN16_upsampled_Image](https://github.com/JNingWei/Image-Segmentation/blob/master/FCN/generated_image/fcn16_upsampled.jpg)
 
-<br>
-
-FCN8_upsampled_Image:
-
+FCN8_upsampled_Image:<br>
 ![FCN8_upsampled_Image](https://github.com/JNingWei/Image-Segmentation/blob/master/FCN/generated_image/fcn8_upsampled.jpg)
 
 ## License
