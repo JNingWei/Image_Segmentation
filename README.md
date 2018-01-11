@@ -1,7 +1,7 @@
 
 # Image Segmentation　![Travis](https://img.shields.io/codecov/c/github/codecov/example-python.svg) ![Language](https://img.shields.io/badge/language-Python-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/Image-Segment-ff69b4.svg)
  
-__Update 03-06-2017__:   __There're some programs of image segmentation written by myself, and still in a modified state.__
+__Update 03-06-2017__:   __On the basis of learning from others, these programs of image segmentation written by myself, and still in a modified state.__
 
 ## Overview
 
