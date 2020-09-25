@@ -2,5 +2,5 @@ matplotlib==1.5.2
 numpy==1.11.1
 Pillow==3.4.2
 scipy==0.18.0
-tensorflow-gpu==1.1.0
+tensorflow-gpu==1.15.4
 urllib3==1.21.1
